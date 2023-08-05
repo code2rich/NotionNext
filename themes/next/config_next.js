@@ -1,7 +1,7 @@
 const CONFIG_NEXT = {
 
   HOME_BANNER: false, // 首页是否显示大图及标语 [true,false]
-  HOME_BANNER_GREETINGS: ['Hi，我是一个程序员', '我一直在认识自己，观察世界', '欢迎来到我的博客🎉'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['Hi，我是一个code2rich', '正在认识自己，观察世界，做知识的实践者', '欢迎来到我的博客🎉'], // 首页大图标语文字
 
   NAV_TYPE: 'normal', // ['fixed','autoCollapse','normal'] 分别是固定屏幕顶部、屏幕顶部自动折叠，不固定
 
